@@ -2,8 +2,8 @@
 //  Constants.swift
 //  CustomLoginDemo
 //
-//  Created by user163072 on 1/10/20.
-//  Copyright © 2020 user163072. All rights reserved.
+//  Created by Gdavisiv on 1/10/20.
+//  Copyright © 2020 George Davis IV. All rights reserved.
 //
 
 import Foundation
