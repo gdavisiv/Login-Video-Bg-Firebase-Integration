@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/gdavisiv/Vivid-UI---DesignCode/blob/UI-Updates/DesignCode_1/Assets.xcassets/swiftuiLogo.png">
-<img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="190" width="190">
-<img src="https://cdn.worldvectorlogo.com/logos/cocoapods.svg" height="190" width="190">
+<img src="https://github.com/gdavisiv/Vivid-UI---DesignCode/blob/UI-Updates/DesignCode_1/Assets.xcassets/swiftuiLogo.png" height="100" width="100">
+<img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="100" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/cocoapods.svg" height="100" width="100">
 </p>
 
 # Custom Login Screen + Video Background + User Data stored in Firebase
