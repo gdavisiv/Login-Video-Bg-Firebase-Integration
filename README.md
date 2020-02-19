@@ -3,16 +3,20 @@
 <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="190" width="190">
 </p>
 
-# Vivid UI - Design Code
+# Custom Login Screen + Video Background + User Data stored in Firebase
 
-This project is a Personal Playground to better understand the new Swift UI Syntax and Design Tools.  Following the tutorial series provided by Designcode.io I've altered/edited multiple elements to improve creation/editing skills.
+This project is a Personal Playground to better understand the Swift Storyboard Syntax and Design Tools.  Following the tutorial series provided by CodewithChris I've altered/edited multiple elements to improve my programming skills, and get a better sense of what's needed to create and store user data.
 
 ### Prerequisites
 
 xCode 11.3.1
+Firebase
+Cocoapods
 
 https://developer.apple.com/xcode/swiftui/
+https://firebase.google.com/
+https://cocoapods.org/
 
 ## Acknowledgments
 
-* https://designcode.io/swiftui
+* https://codewithchris.com/
