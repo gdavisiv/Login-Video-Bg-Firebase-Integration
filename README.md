@@ -13,9 +13,9 @@ xCode 11.3.1
 Firebase
 Cocoapods
 
-https://developer.apple.com/xcode/swiftui/
-https://firebase.google.com/
-https://cocoapods.org/
+https://developer.apple.com/xcode/swiftui/ <br>
+https://firebase.google.com/ <br>
+https://cocoapods.org/ <br>
 
 ## Acknowledgments
 
